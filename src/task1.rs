@@ -52,4 +52,3 @@ mod tests {
         assert_eq!(median_from_string("   7   5   9   "), 7);
     }
 }
-
